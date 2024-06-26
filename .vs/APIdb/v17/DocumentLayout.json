@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matt\\Desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\2-\u0439 \u043A\u0443\u0440\u0441\\2-\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\APIdb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35854A1F-8872-46F3-96BA-86E7C42B64A6}|APIdb\\APIdb.csproj|c:\\users\\matt\\desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\2-\u0439 \u043A\u0443\u0440\u0441\\2-\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\apidb\\apidb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35854A1F-8872-46F3-96BA-86E7C42B64A6}|APIdb\\APIdb.csproj|solutionrelative:apidb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 600,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt\\Desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\2-\u0439 \u043A\u0443\u0440\u0441\\2-\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\APIdb\\APIdb\\Program.cs",
+              "RelativeDocumentMoniker": "APIdb\\Program.cs",
+              "ToolTip": "C:\\Users\\Matt\\Desktop\\\u0442\u0435\u0445\u043D\u0438\u043A\u0443\u043C\\2-\u0439 \u043A\u0443\u0440\u0441\\2-\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\APIdb\\APIdb\\Program.cs",
+              "RelativeToolTip": "APIdb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:08:26.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
